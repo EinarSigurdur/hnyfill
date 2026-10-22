@@ -414,3 +414,9 @@ html[lang="en"] .hero-title{font-size:clamp(68px,7.1vw,106px)}
  .hero-image{inset:20px -24% 250px}
  .instagram-recipes>div{grid-template-columns:1fr;gap:0}
 }
+
+.instagram-recipes a{border-top:0;padding:0 0 20px;display:block}
+.instagram-recipes a img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain;background:#fff;box-shadow:0 12px 32px -24px #082a4355;transition:box-shadow .25s}
+.instagram-recipes a h3{font-family:var(--font-body);font-size:22px;font-weight:500;line-height:1.35;margin-top:22px}
+.instagram-recipes a:hover img{box-shadow:0 16px 36px -20px #082a4370}
+@media(max-width:600px){.instagram-recipes>div{gap:28px}.instagram-recipes a h3{font-size:21px}}

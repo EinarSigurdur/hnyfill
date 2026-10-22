@@ -2,9 +2,9 @@
 :HL["/hnyfill/_next/static/media/6e77e2e2b1683d57-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/hnyfill/_next/static/media/b258a5a2e21d281c-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/hnyfill/_next/static/media/c69e9e85d94ea4a1-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/hnyfill/_next/static/css/351b8f665c5115c1.css","style"]
+:HL["/hnyfill/_next/static/css/aea221e83292d481.css","style"]
 :HL["/hnyfill/media/bf2813_869f487e6f5844fc8f9143622ffba328~mv2.webp","image",{"imageSrcSet":"/hnyfill/media/bf2813_869f487e6f5844fc8f9143622ffba328~mv2-480.webp 480w, /hnyfill/media/bf2813_869f487e6f5844fc8f9143622ffba328~mv2.webp 780w","imageSizes":"(max-width: 700px) 100vw, 60vw","fetchPriority":"high"}]
 :HL["/hnyfill/media/bf2813_057e95a7411d491e8036542d6e13c03e~mv2.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"oc","k":"frettir/ysa-i-tempura","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":112,"c":"$Q2"}]]
-0:{"b":"vHtnVbVZv5T_JYdlCz2Ki","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7uoYtNfcqRngVjeE0yoqF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

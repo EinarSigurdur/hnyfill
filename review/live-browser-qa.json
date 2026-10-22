@@ -1,0 +1,460 @@
+{
+  "commit": "b93cc42da96685c05d90b5394ef3c4651a70c2f2",
+  "checks": [
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/starfsfolk/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/sagan/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/reykhus/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fyrir-fyrirtaeki/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/beykireyktur-lax-i-sneidum/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/uppskriftir/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/hafa-samband/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fiskidagatal/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fjaraflanir/",
+      "width": 320
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/starfsfolk/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/sagan/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/reykhus/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fyrir-fyrirtaeki/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/beykireyktur-lax-i-sneidum/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/uppskriftir/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/hafa-samband/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fiskidagatal/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fjaraflanir/",
+      "width": 390
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/starfsfolk/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/sagan/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/reykhus/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fyrir-fyrirtaeki/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/beykireyktur-lax-i-sneidum/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/uppskriftir/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/hafa-samband/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fiskidagatal/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fjaraflanir/",
+      "width": 768
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/starfsfolk/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/sagan/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/reykhus/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fyrir-fyrirtaeki/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/beykireyktur-lax-i-sneidum/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/uppskriftir/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/hafa-samband/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fiskidagatal/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fjaraflanir/",
+      "width": 1024
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/starfsfolk/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/sagan/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/reykhus/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fyrir-fyrirtaeki/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/vorur/beykireyktur-lax-i-sneidum/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/uppskriftir/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/hafa-samband/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fiskidagatal/",
+      "width": 1440
+    },
+    {
+      "broken": [],
+      "h1": true,
+      "noindex": true,
+      "overflow": false,
+      "path": "/hnyfill/fjaraflanir/",
+      "width": 1440
+    }
+  ],
+  "interactionChecks": [
+    "Fresh/frozen filter and thorsk search return two products",
+    "Search and category survive reload",
+    "Empty search reset restores 15 products",
+    "Language switching reaches /hnyfill/en/vorur/",
+    "Mobile menu opens with focus inside; fish calendar navigation closes dialog",
+    "All four team contact links measure 44px high",
+    "English hero at 320px has no horizontal overflow",
+    "Browser error/warning log empty"
+  ],
+  "limitations": [
+    "Reduced-motion behavior reviewed in code; preference switching not emulated in this browser session",
+    "Physical device and screen-reader testing not performed",
+    "No enquiry transmitted"
+  ]
+}

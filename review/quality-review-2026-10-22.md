@@ -38,3 +38,13 @@ Keep GitHub /hnyfill/ preview noindex. For the approved production domain: build
 
 ## Verification
 Build/type checks and published browser verification are recorded in the accompanying QA results. Manual gaps: real iOS/Android devices, assistive-technology user testing, email delivery (no backend), final SKU/label approval and production DNS/TLS remain outside the preview test.
+
+### Final results
+- Production export/type checks and targeted ESLint passed.
+- Export audit: 68 pages, 2,342 internal links, zero errors.
+- Published HTTP check: 179 unique route/asset URLs, all HTTP 200.
+- Published browser: 11 key routes × 5 widths (320, 390, 768, 1024, 1440), no horizontal overflow, missing headings, missing noindex or broken loaded images. Lazy images not yet loaded are covered separately by the HTTP asset check.
+- Hero visually reviewed at all five widths; Team, Story and Smokehouse compositions visually reviewed. Team keeps nine equal cards; all four contact links measure 44px high. English hero also checked at 320px.
+- Filtering/search persistence, empty-state reset, language switch and mobile navigation passed. No warnings/errors in captured browser log.
+- Role-based self-review found mobile support text too close to the salmon; added photographic breathing room and reinspected. Existing typography, cinematic treatment and equal staff hierarchy retained.
+- Reduced-motion guards and static fallback reviewed in source; live OS-preference switching was not emulated in this browser session. Physical-device testing, screen-reader testing and actual email delivery remain manual. No numerical speed/CLS benchmark is claimed.

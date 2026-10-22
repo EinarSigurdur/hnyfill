@@ -7,4 +7,4 @@
 :HL["/hnyfill/media/bf2813_057e95a7411d491e8036542d6e13c03e~mv2.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"oc","k":"en/vorur/lausfrystir-laxabitar","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":112,"c":"$Q2"}]]
-0:{"b":"ShqHe2lXlvkefbWEc-sjN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"PDqcoCcqGcYO62YBTA0Z5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

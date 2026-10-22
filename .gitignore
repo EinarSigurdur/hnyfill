@@ -1,0 +1,10 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env*
+qa/
+
+out/
+research/
+qa/
+*.tar.gz

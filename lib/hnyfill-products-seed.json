@@ -1,0 +1,683 @@
+{
+  "project": "Hnýfill 2026 website redesign",
+  "research_date": "2026-10-20",
+  "scope_note": "Evidence-backed candidate catalog, not a final current-sellable SKU list. Verify with Hnýfill/NORA before publication. No invented prices, exact labels or allergens.",
+  "categories": {
+    "reykt_og_grafid": "Reykt & grafið",
+    "ferskt_og_fryst": "Ferskt & fryst",
+    "tilbunir_fiskrettir": "Tilbúnir fiskréttir",
+    "hefdir_og_servorur": "Hefðir & sérvörur",
+    "medlaeti": "Meðlæti"
+  },
+  "products": [
+    {
+      "slug": "beykireyktur-lax-i-sneidum",
+      "name_is": "Beykireyktur lax í sneiðum",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100257014-hnyfill-beykireyktur-lax-i-sneidum"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "100 g retailer pack; other format may exist from Nora"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "tadreyktur-lax",
+      "name_is": "Taðreyktur lax",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100265213-hnyfill-tadreyktur-lax",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 270 g (variable-weight)"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "grafinn-lax-i-sneidum",
+      "name_is": "Grafinn lax í sneiðum",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100256844-hnyfill-grafinn-lax-i-sneidum"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "100 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "grafinn-lax",
+      "name_is": "Grafinn lax",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100265212-hnyfill-grafinn-lax",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 340 g (variable-weight)"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "tadreyktur-silungur",
+      "name_is": "Taðreyktur silungur",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100268131-hnyfill-tadreyktur-silungur"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: 1 kg listing"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "tadreykt-bleikja",
+      "name_is": "Taðreykt bleikja",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100265214-hnyfill-tadreykt-bleikja"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 260 g (variable-weight)"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "djupsteikt-ysa-i-tempura",
+      "name_is": "Djúpsteikt ýsa / ýsa í tempura",
+      "category": "tilbunir_fiskrettir",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://www.hnyfill.is/post/hn%C3%BDfill-%C3%BDsa-%C3%AD-tempura"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "Keep distinct from breaded haddock. Confirm exact current product name and pack size.",
+      "featured_candidate": true
+    },
+    {
+      "slug": "lettsaltadir-thorskhnakkar",
+      "name_is": "Léttsaltaðir þorskhnakkar",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "Different from non-salted cod loins and smoked cod loins.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "lausfrystir-laxabitar",
+      "name_is": "Lausfrystir laxabitar",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "fiskibollur",
+      "name_is": "Fiskibollur",
+      "category": "tilbunir_fiskrettir",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://www.hnyfill.is/post/d%C3%BAndurg%C3%B3%C3%B0ar-fiskibollur-fr%C3%A1-hn%C3%BDfli"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Official package image showed 800 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "reykt-hvalkjot",
+      "name_is": "Reykt hvalkjöt",
+      "category": "hefdir_og_servorur",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "Respectful neutrally factual product listing; verify current sales availability, market and legal permissions. No hero promotion by default.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "lausfrystir-ysubitar",
+      "name_is": "Lausfrystir ýsubitar",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "fiskur-i-raspi",
+      "name_is": "Fiskur í raspi / ýsa í raspi",
+      "category": "tilbunir_fiskrettir",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir",
+        "https://kronan.is/vara/100267174-hnyfill-ysa-i-raspi"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan ýsa í raspi u.þ.b. 750g"
+      ],
+      "internal_notes": "Do not assume generic \"fiskur í raspi\" and retail \"ýsa í raspi\" are the same SKU. Contains wheat/gluten; import only exact retailer allergen data when approved.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "hakarl-100g",
+      "name_is": "Hákarl",
+      "category": "hefdir_og_servorur",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "100 g on official list"
+      ],
+      "internal_notes": "Seasonal/traditional; verify current availability.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "lausfrystir-thorskhnakkar",
+      "name_is": "Lausfrystir þorskhnakkar",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://www.hnyfill.is/verslanir"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "Different from lightly salted, fresh cod loins and smoked cod loins.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "pastrami-lax",
+      "name_is": "Pastramilax",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/items",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "NORA describes beech-smoked salmon with pastrami seasoning. No universal no-additives claim.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "reyktur-lax-100g",
+      "name_is": "Reyktur lax 100 g",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/items/reyktur-lax-100g"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "100 g on legacy Items listing"
+      ],
+      "internal_notes": "Likely overlapping another smoked-salmon item. Product manager must decide whether to merge or keep unique variant.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "balik-laxahnakki",
+      "name_is": "Balik-laxahnakki",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.hnyfill.is/reykh%C3%BAs",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [],
+      "internal_notes": "Brand site calls this Baliq; distributor calls Balik. Final public spelling must be confirmed. Collaborative Michelin-chef reference subject to permission.",
+      "featured_candidate": true
+    },
+    {
+      "slug": "kirsuberjavida-reykt-bleikja",
+      "name_is": "Kirsuberjaviðarreykt bleikja",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+        "https://kronan.is/vara/100270202-hnyfill-kirsuberja-vidarreykt-bleikja"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 250 g (variable-weight)"
+      ],
+      "internal_notes": "",
+      "featured_candidate": true
+    },
+    {
+      "slug": "reykt-ysa",
+      "name_is": "Reykt ýsa",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+        "https://kronan.is/vara/100260076-hnyfill-reykt-ysa"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: 1 kg frozen listing"
+      ],
+      "internal_notes": "Do not fill cooking times, allergens or package materials until product owner signs off. Existing label photograph says roðrifin; retailer says Reykt ýsa.",
+      "featured_candidate": true
+    },
+    {
+      "slug": "blinis",
+      "name_is": "Blinis",
+      "category": "medlaeti",
+      "source_urls": [
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+        "https://kronan.is/vara/100269882-hnyfill-blinis-mini"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan mini 16 pcs",
+        "NORA frozen 12 pcs"
+      ],
+      "internal_notes": "Two distinct pack sizes and possibly distinct formats. Contains wheat/milk/egg per official package graphic, but confirm per SKU before publishing.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "beykireyktur-lax-biti",
+      "name_is": "Beykireyktur lax – biti",
+      "category": "reykt_og_grafid",
+      "source_urls": [
+        "https://kronan.is/vara/100270582-hnyfill-beykireyktur-lax-biti",
+        "https://www.noraseafood.com/products.php?category=reykt-og-grafid"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: 1 kg"
+      ],
+      "internal_notes": "Canonical family links to sliced beech-smoked salmon; keep pack-specific entries if needed.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "ferskur-plokkfiskur",
+      "name_is": "Ferskur plokkfiskur",
+      "category": "tilbunir_fiskrettir",
+      "source_urls": [
+        "https://kronan.is/vara/100268118-hnyfill-ferskur-plokkfiskur"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: 800 g"
+      ],
+      "internal_notes": "Contains FISH, milk and WHEAT according to retailer. Must not present all Hnýfill products as dairy- or gluten-free.",
+      "featured_candidate": true
+    },
+    {
+      "slug": "fiskur-black-garlic",
+      "name_is": "Fiskur í Black Garlic marineringu",
+      "category": "tilbunir_fiskrettir",
+      "source_urls": [
+        "https://kronan.is/vara/100267172-hnyfill-fiskur-i-black-garlic-marineringu"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 750 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "thorskflok",
+      "name_is": "Þorskflök",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://kronan.is/vara/100267175-hnyfill-thorskflok"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 750 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "thorskhnakki",
+      "name_is": "Þorskhnakki",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://kronan.is/vara/100267173-hnyfill-thorskhnakki"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 750 g"
+      ],
+      "internal_notes": "Do not merge with lightly salted/frozen/smoked unless manufacturer validates.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "ysuflok",
+      "name_is": "Ýsuflök",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://kronan.is/vara/100267169-hnyfill-ysuflok"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 750 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    },
+    {
+      "slug": "bleikjuflok",
+      "name_is": "Bleikjuflök",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://kronan.is/vara/100267170"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 700 g"
+      ],
+      "internal_notes": "Generic short URL from search; review exact canonical URL before linking to storefront.",
+      "featured_candidate": false
+    },
+    {
+      "slug": "lax",
+      "name_is": "Lax",
+      "category": "ferskt_og_fryst",
+      "source_urls": [
+        "https://kronan.is/vara/100267171-hnyfill-lax"
+      ],
+      "verification_status": "documented_on_source_not_live_inventory_confirmation",
+      "current_sales_status": "verify_with_hnyfill",
+      "image_status": "needs_licensed_high_res_asset",
+      "ingredients": null,
+      "allergens": null,
+      "nutrition_per_100g": null,
+      "storage": null,
+      "cooking_instructions": null,
+      "description_is": null,
+      "variant_notes": [
+        "Krónan: u.þ.b. 800 g"
+      ],
+      "internal_notes": "",
+      "featured_candidate": false
+    }
+  ],
+  "pending_or_excluded": [
+    {
+      "name_is": "Reyktir þorskhnakkar",
+      "source_url": "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+      "reason": "NORA marks Væntanlegt; not confirmed current inventory"
+    },
+    {
+      "name_is": "Reyktur rauðmagi",
+      "source_url": "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+      "reason": "NORA marks Væntanlegt; not confirmed current inventory"
+    },
+    {
+      "name_is": "Ruths Hjemmelavede Karrysild",
+      "source_url": "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+      "reason": "A third-party brand sold by distributor, not Hnýfill branded"
+    },
+    {
+      "name_is": "Ruths Hjemmelavede Kryddersild",
+      "source_url": "https://www.noraseafood.com/products.php?category=reykt-og-grafid",
+      "reason": "A third-party brand sold by distributor, not Hnýfill branded"
+    }
+  ],
+  "editorial_policy": {
+    "publish_status": "Hide products until client verification of live offering or present only as current legacy portfolio with no stock promise",
+    "source_hierarchy": "Hnýfill official first for history/process; exact retailer SKU listing for pack details; distributor catalog for NORA Hnýfill products; never infer all distributor items are Hnýfill",
+    "product_claims": "Never auto-generate nutrition, allergens, cooking times, product imagery, sustainability claims, award claims, certifications or prices",
+    "image_license": "Own Hnýfill assets preferred, licensed retailer/press/social images only with explicit permission"
+  }
+}

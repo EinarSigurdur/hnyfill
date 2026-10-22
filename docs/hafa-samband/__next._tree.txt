@@ -1,0 +1,9 @@
+:HL["/hnyfill/_next/static/media/0153d10edc1b3981-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/hnyfill/_next/static/media/6e77e2e2b1683d57-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/hnyfill/_next/static/media/b258a5a2e21d281c-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/hnyfill/_next/static/media/c69e9e85d94ea4a1-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/hnyfill/_next/static/css/173a78d1e7427074.css","style"]
+:HL["/hnyfill/media/bf2813_057e95a7411d491e8036542d6e13c03e~mv2.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"oc","k":"hafa-samband","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":112,"c":"$Q2"}]]
+0:{"b":"ShqHe2lXlvkefbWEc-sjN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
